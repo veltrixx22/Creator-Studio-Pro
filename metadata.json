@@ -1,0 +1,9 @@
+{
+  "name": "Creator Studio AI",
+  "description": "SaaS profissional de produção de vídeo multicâmera híbrida com IA local, monitoramento de dispositivos e sincronização offline.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
